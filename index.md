@@ -3,6 +3,8 @@ layout: none
 title: false
 ---
 
+<link rel="stylesheet" href="style.css">
+
 # R.D.C. Jazinski  
 **Independent Researcher**  ([ORCID](https://orcid.org/0009-0000-0362-1994))
 Exploring symbolic systems, harmonic epistemology, and computational emergence  
