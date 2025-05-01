@@ -5,6 +5,13 @@ title: false
 
 <link rel="stylesheet" href="style.css">
 
+<!-- Favicon and App Icons -->
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="shortcut icon" href="favicon.ico">
+
 # R.D.C. Jazinski  
 **Independent Researcher**  ([ORCID](https://orcid.org/0009-0000-0362-1994))
 Exploring symbolic systems, harmonic epistemology, and computational emergence  
