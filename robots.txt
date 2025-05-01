@@ -1,0 +1,4 @@
+# robots.txt for rdcj-research.github.io
+
+User-agent: *
+Allow: /
