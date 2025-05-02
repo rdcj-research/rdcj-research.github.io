@@ -217,4 +217,8 @@ My work thrives on interdisciplinary dialogue. Below are ways to contribute base
 **All projects are developed with academic rigor and interdisciplinary openness.**  
 Reach out: [rdcj-research@pm.me](mailto:rdcj-research@pm.me) 
 
+---
+
+_Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — © 2025 R.D.C. Jazinski._
+
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
