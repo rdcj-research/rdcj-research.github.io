@@ -1,6 +1,7 @@
 ---
 layout: none
-title: false
+title: "RDCJ RESEARCH"
+description: "Exploring symbolic systems, harmonic epistemology, and computational emergence"
 ---
 
 <link rel="stylesheet" href="style.css">
@@ -12,11 +13,13 @@ title: false
 <link rel="manifest" href="site.webmanifest">
 <link rel="shortcut icon" href="favicon.ico">
 
-# R.D.C. Jazinski  
-**Independent Researcher**  ([ORCID](https://orcid.org/0009-0000-0362-1994))
-Exploring symbolic systems, harmonic epistemology, and computational emergence  
+# RDCJ Research
 
-My work seeks to formalise **symbolic resonance**—the interplay of structure, intention, and pattern—as a framework for understanding knowledge, computation, and cultural cognition. Bridging mathematics, music, and philosophy, I investigate how symbolic systems (ancient and modern) encode meaning, resolve contradictions, and model emergence. Drawing on 25+ years of interdisciplinary inquiry, I develop frameworks and tools that explore how structure, intention, and pattern give rise to meaning across domains.
+![image](rdcjresearch.jpg)
+
+**Exploring symbolic systems, harmonic epistemology, and computational emergence** ([ORCID](https://orcid.org/0009-0000-0362-1994))
+
+My work seeks to formalise [**symbolic resonance**](https://www.symbolicresonance.com)—the interplay of structure, intention, and pattern—as a framework for understanding knowledge, computation, and cultural cognition. Bridging mathematics, music, and philosophy, I investigate how symbolic systems (ancient and modern) encode meaning, resolve contradictions, and model emergence. [Drawing on 25+ years of interdisciplinary inquiry](https://www.rdcjazinski.com), I develop frameworks and tools that explore how structure, intention, and pattern give rise to meaning across domains.
 
 **Guiding Question**:  
 *How can harmonic principles reconcile the rigidity of formal logic with the fluidity of human cognition?*  
@@ -56,6 +59,8 @@ This repository curates my independent research portfolio. It serves as a public
   A comparative structural overview of empirical frameworks and their evolution.
 - **Catalogue of Epistemological Foundations**  
   A taxonomy of knowledge theories across history and logic.
+- **Catalogue of Symbolic Computation and Symbolic Systems**  
+  A comprehensive reference to the foundations, tools, and traditions of symbolic reasoning, computation, and structure across cultures and disciplines.
 - **_The Fretless Mind_**  
   A treatise redefining scientific epistemology through harmonic systems.  
 
@@ -63,11 +68,6 @@ This repository curates my independent research portfolio. It serves as a public
 
 ### **Epistemology and Scientific Method**  
 My work rethinks knowledge systems through harmonic principles, focusing on frameworks that bridge logic, intuition, and cultural cognition.  
-
-- **The Fretless Mind**  
-  A treatise reframing epistemology as a *harmonic process*—balancing contradiction, recursion, and resonance.  
-  - Explores "intentional geometry" as a bridge between formal logic and creative cognition.  
-  - Proposes harmonic axioms for resolving paradoxes in symbolic AI.  
 
 - **Catalogue of Epistemological Foundations**  
   A **neutral taxonomy** of knowledge theories across history, cultures, and disciplines:  
@@ -80,6 +80,14 @@ My work rethinks knowledge systems through harmonic principles, focusing on fram
   - Classifies methods (e.g., **hypothetico-deductive**, **abductive**, **phenomenological**) by input/output logic.  
   - Compares historical shifts (e.g., Aristotelian→Galilean→Popperian transitions).  
   - Serves as a structured overview for methodological transparency.  
+
+- **Catalogue of Symbolic Computation and Symbolic Systems**  
+  A **comprehensive reference** to the foundations, tools, and traditions of symbolic reasoning:
+  - Covers **formal systems** (e.g., algebra, logic, automata, rewriting systems) **and informal traditions** (e.g., I Ching, runic scripts, alchemical diagrams).
+  - Explores **symbolic modelling** in mathematics, language, music, myth, and computation.
+  - Highlights structural parallels between **cultural artefacts and computational logic**.
+  - Maps the evolution of **symbolic tools from ritual to machine**, across historical and epistemic contexts.
+  - Intended as a **foundational resource** for symbolic science, harmonic modelling, and meaning-based computation.
 
 ---
 
@@ -215,7 +223,7 @@ My work thrives on interdisciplinary dialogue. Below are ways to contribute base
 ---
 
 **All projects are developed with academic rigor and interdisciplinary openness.**  
-Reach out: [rdcj-research@pm.me](mailto:rdcj-research@pm.me) 
+Reach out: [reach@rdcj-research.com](mailto:reach@rdcj-research.com) 
 
 ---
 
