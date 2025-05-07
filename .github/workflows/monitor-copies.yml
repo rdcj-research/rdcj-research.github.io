@@ -14,11 +14,18 @@ jobs:
         run: |
           echo "🔍 Searching for suspicious clones..."
 
-          curl -s -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/search/repositories?q=rdcj-research.github.io+in:name" > search_results.json
+          declare -a targets=("rdcj-research.github.io" "symbolicresonance.github.io" "rdcjazinski.github.io")
+          touch matches.txt
 
-          jq -r '.items[] | select(.owner.login != "rdcj-research") | .full_name' search_results.json > matches.txt
+          for repo_name in "${targets[@]}"; do
+            echo "🔍 Searching for $repo_name..."
+            curl -s -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/search/repositories?q=${repo_name}+in:name" > search_results.json
 
+            jq -r '.items[] | select(.owner.login != "rdcj-research") | .full_name' search_results.json >> matches.txt
+          done
+
+          sort -u matches.txt -o matches.txt
           touch flagged_repos.txt
 
           while read repo; do
@@ -57,5 +64,5 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: "⚠️ Potential copy detected (CNAME / LICENSE / index.md)",
-              body: `The following repositories were found with the same name as this project and containing at least one of the following files: \`CNAME\`, \`LICENSE\`, or \`index.md\`.\n\n${matches}\n\nThese files suggest possible unauthorized reuse of your identity, structure, or licensed content. Please review and take appropriate action.\n\n_This issue was automatically created by your repository monitor._`
+              body: `The following repositories were found with suspicious similarity to your public domains and contain at least one of: \`CNAME\`, \`LICENSE\`, or \`index.md\`.\n\n${matches}\n\nPlease review them for potential misuse or unauthorized replication.\n\n_Automated scan triggered by repository monitoring workflow._`
             });
