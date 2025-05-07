@@ -53,7 +53,7 @@ jobs:
             const fs = require('fs');
             const matches = fs.readFileSync('flagged_repos.txt', 'utf8');
 
-            github.issues.create({
+            await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: "⚠️ Potential copy detected (CNAME / LICENSE / index.md)",
