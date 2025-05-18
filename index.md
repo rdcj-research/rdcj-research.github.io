@@ -93,7 +93,7 @@ My work rethinks knowledge systems through structural and symbolic principles, f
 Mathematical and computational frameworks for modelling symbolic resonance and complexity.  
 
 - **Prime Complexity Series**  
-  Investigates prime number structures as emergent harmonic systems:  
+  Investigates prime number structures as emergent resonant systems:  
   - Visualizes prime gaps, twin primes, and Ulam spirals as resonant waveforms.  
   - Develops symbolic algorithms for prime-pattern prediction.  
 
@@ -108,7 +108,7 @@ Mathematical and computational frameworks for modelling symbolic resonance and c
   - Category theory applied to cultural symbolic systems.  
 
 - **Codon Cube and Symbolic Genetics**  
-  A 6-bit harmonic framework for genetic coding:  
+  A 6-bit symbolic framework for genetic resonance:  
   - Maps codon-amino acid relationships to combinatorial resonance.  
   - Probes parallels between genetic and cultural "code" evolution.  
 
@@ -118,7 +118,7 @@ Mathematical and computational frameworks for modelling symbolic resonance and c
 
 - **I Ching Computation Models**  
   Exploring the I Ching as a binary-based symbolic system of decision-making, emergence, and resonance.  
-  Includes decoding of hexagram logic, harmonic mappings, and interface prototypes.
+  Includes decoding of hexagram logic, resonance mappings, and interface prototypes.
 
 - **Runes and Prime Mirrors**  
   Investigation into the 18, 24, and 16 rune systems through harmonic, prime, and symbolic structures.  
@@ -135,7 +135,7 @@ My work integrates diverse frameworks to study symbolic systems, harmonizing rig
 ### **1. Formal Symbolics**  
 - **Graph Theory**: Mapping epistemic networks and symbolic dependencies.  
 - **Category Theory**: Analyzing structural equivalences across cultural, mathematical, and computational systems.  
-- **Geometric Logic**: Modeling harmonic principles in topological spaces.  
+- **Geometric Logic**: Modeling resonant principles in topological spaces.  
 
 ### **2. Computational Modeling**  
 - **Algorithmic Prototyping**: Python and JavaScript for symbolic resonance simulations.  
