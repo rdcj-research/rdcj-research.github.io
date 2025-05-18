@@ -65,7 +65,7 @@ This repository curates my independent research portfolio. It serves as a public
 ---
 
 ### **Epistemology and Scientific Method**  
-My work rethinks knowledge systems through harmonic principles, focusing on frameworks that bridge logic, intuition, and cultural cognition.  
+My work rethinks knowledge systems through structural and symbolic principles, focusing on frameworks that bridge logic, intuition, and cultural cognition.  
 
 - **Catalogue of Epistemological Foundations**  
   A **neutral taxonomy** of knowledge theories across history, cultures, and disciplines:  
@@ -85,7 +85,7 @@ My work rethinks knowledge systems through harmonic principles, focusing on fram
   - Explores **symbolic modelling** in mathematics, language, music, myth, and computation.
   - Highlights structural parallels between **cultural artefacts and computational logic**.
   - Maps the evolution of **symbolic tools from ritual to machine**, across historical and epistemic contexts.
-  - Intended as a **foundational resource** for symbolic science, harmonic modelling, and meaning-based computation.
+  - Intended as a **foundational resource** for symbolic science, structural modelling, and meaning-driven computation.
 
 ---
 
@@ -143,8 +143,7 @@ My work integrates diverse frameworks to study symbolic systems, harmonizing rig
 
 #### **Long-Term Goals**  
 - **Formal Verification**: Apply tools like TLA+ or Coq to ensure symbolic frameworks are paradox-free.  
-- **Cross-Domain Toolkits**: Develop open libraries for harmonic epistemology modelling.  
-
+- **Cross-Domain Toolkits**: Develop open libraries for symbolic reasoning and structural resonance modelling.  
 
 ### **3. Historical & Cross-Cultural Analysis**  
 - **Comparative Symbology**: Studying divinatory systems as proto-computational frameworks.  
@@ -194,18 +193,18 @@ My work thrives on interdisciplinary dialogue. Below are ways to contribute base
 ---
 
 ### **For Visitors**  
-- **Follow Updates**: Subscribe to *The Fretless Mind Bulletin* (coming soon) for essays and project previews.  
+- **Follow Updates** 
 - **Join Discussions**:
   - Discuss symbolic systems in [LessWrong’s Research Forum](https://www.lesswrong.com/tag/research).  
   - Annotate this work on [Hypothes.is](https://hypothes.is/).  
-- **Cite & Share**: Reference this work in your projects ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) unless noted): "Jazinski, R.D.C. (2025). *Symbolic Systems & Harmonic Epistemology*. GitHub. [https://github.com/rdcj-research](https://github.com/rdcj-research)"
+- **Cite & Share**: Reference this work in your projects ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) unless noted): "Jazinski, R.D.C. (2025). *Symbolic Systems & Emergent Epistemologies*. GitHub. [https://github.com/rdcj-research](https://github.com/rdcj-research)"
 
 
 #### BibTeX
 ```
 @misc{jazinski2025symbolic, 
     author       = {Jazinski, R.D.C.}, 
-    title        = {Symbolic Systems & Harmonic Epistemology}, 
+    title        = {Symbolic Systems & Emergent Epistemologies}, 
     year         = {2025}, 
     howpublished = {https://github.com/rdcj-research}, 
     note         = {GitHub repository} 
