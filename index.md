@@ -60,9 +60,7 @@ This repository curates my independent research portfolio. It serves as a public
 - **Catalogue of Epistemological Foundations**  
   A taxonomy of knowledge theories across history and logic.
 - **Catalogue of Symbolic Computation and Symbolic Systems**  
-  A comprehensive reference to the foundations, tools, and traditions of symbolic reasoning, computation, and structure across cultures and disciplines.
-- **_The Fretless Mind_**  
-  A treatise redefining scientific epistemology through harmonic systems.  
+  A comprehensive reference to the foundations, tools, and traditions of symbolic reasoning, computation, and structure across cultures and disciplines. 
 
 ---
 
