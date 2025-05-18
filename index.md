@@ -22,7 +22,7 @@ description: "Exploring epistemology, symbolic systems, and computational emerge
 My work seeks to formalise [**symbolic resonance**](https://www.symbolicresonance.com)—the interplay of structure, intention, and pattern—as a framework for understanding knowledge, computation, and cultural cognition. Bridging mathematics, music, and philosophy, I investigate how symbolic systems (ancient and modern) encode meaning, resolve contradictions, and model emergence. [Drawing on 25+ years of interdisciplinary inquiry](https://www.rdcjazinski.com), I develop frameworks and tools that explore how structure, intention, and pattern give rise to meaning across domains.
 
 **Guiding Question**:  
-*How can harmonic principles reconcile the rigidity of formal logic with the fluidity of human cognition?*  
+*How can structural principles reconcile the rigidity of formal logic with the fluidity of human cognition?*  
 
 ---
 
@@ -148,7 +148,7 @@ My work integrates diverse frameworks to study symbolic systems, harmonizing rig
 ### **3. Historical & Cross-Cultural Analysis**  
 - **Comparative Symbology**: Studying divinatory systems as proto-computational frameworks.  
 - **Epistemic Archaeology**: Reconstructing decision-making logics in ancient systems.  
-- **Critical Hermeneutics**: Interpreting cultural symbols through harmonic and geometric lenses.  
+- **Critical Hermeneutics**: Interpreting cultural symbols through resonant and geometric lenses.  
 
 ### **4. Interdisciplinary Synthesis**  
 - **Resonance Mapping**: Identifying isomorphic patterns across music, mathematics, and cognition.  
@@ -175,7 +175,7 @@ My work thrives on interdisciplinary dialogue. Below are ways to contribute base
   - Model symbolic resonance in quantum or thermodynamic systems.  
 
 - **Philosophers & Ethicists**  
-  - Critique the epistemic foundations of harmonic frameworks.  
+  - Critique the epistemic foundations of symbolic or resonance-based frameworks. 
   - Discuss ethical implications of symbolic AI and cultural computation.  
 
 - **Historians & Anthropologists**  
