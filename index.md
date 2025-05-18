@@ -1,7 +1,7 @@
 ---
 layout: none
 title: "RDCJ RESEARCH"
-description: "Exploring symbolic systems, harmonic epistemology, and computational emergence"
+description: "Exploring epistemology, symbolic systems, and computational emergence"
 ---
 
 <link rel="stylesheet" href="style.css">
@@ -17,7 +17,7 @@ description: "Exploring symbolic systems, harmonic epistemology, and computation
 
 ![image](rdcjresearch.jpg)
 
-**Exploring symbolic systems, harmonic epistemology, and computational emergence** ([ORCID](https://orcid.org/0009-0000-0362-1994))
+**Exploring epistemology, symbolic systems, and computational emergence** ([ORCID](https://orcid.org/0009-0000-0362-1994))
 
 My work seeks to formalise [**symbolic resonance**](https://www.symbolicresonance.com)—the interplay of structure, intention, and pattern—as a framework for understanding knowledge, computation, and cultural cognition. Bridging mathematics, music, and philosophy, I investigate how symbolic systems (ancient and modern) encode meaning, resolve contradictions, and model emergence. [Drawing on 25+ years of interdisciplinary inquiry](https://www.rdcjazinski.com), I develop frameworks and tools that explore how structure, intention, and pattern give rise to meaning across domains.
 
