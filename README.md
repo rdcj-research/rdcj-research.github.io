@@ -1,13 +1,13 @@
 # rdcj-research.github.io
 
-This repository powers the public research site of **R.D.C. Jazinski**, symbolic scientist exploring resonance, form, and computation.
+This repository powers the public research site of **R.D.C. Jazinski**, a symbolic scientist exploring resonance, form, and computation.
 
 🔗 Visit the site: [rdcj-research.github.io](https://rdcj-research.github.io)
 
 ## Topics
 
 - Symbolic systems
-- Harmonic epistemology
+- Structural epistemology
 - Computational emergence
 - Prime complexity
 - Cultural symbolic logic
@@ -18,4 +18,4 @@ All content is released under [CC BY 4.0](https://creativecommons.org/licenses/b
 
 ## Citation
 
-"Jazinski, R.D.C. (2025). *Symbolic Systems & Harmonic Epistemology*. GitHub. [https://github.com/rdcj-research](https://github.com/rdcj-research)"
+"Jazinski, R.D.C. (2025). *Symbolic Systems & Emergent Epistemologies*. GitHub. [https://github.com/rdcj-research](https://github.com/rdcj-research)"
