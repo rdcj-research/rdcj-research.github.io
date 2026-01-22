@@ -4705,12 +4705,13 @@ input, select, textarea {
 		padding: 0.5em 0.5em 0.3em 0.5em;
 	}
 
-	#copyright ul {
+	/* #copyright ul {
   		text-align: left;
-	}
+	} */
 
 	#copyright p {
 		margin:0 0 0.15em 0;
+		text-align: center;
 	}
 
 	header h2 {
@@ -4745,8 +4746,32 @@ input, select, textarea {
   		padding: 1.2em 1em 0em 1em;
 	}
 
-	/* article p {
-	text-align: justify;
-	margin: 0 0 2rem 0;
-	font-size: 1.1em;
-	} */
+	.image.artefact {
+		margin-bottom:0.9em;
+	}
+
+	#nav .links li .icon i {
+		margin:0.8em 0.1em 0.8em 0.1em;
+	}
+
+	#nav .links li.active .icon i {
+		color:#3E464B;
+		opacity:0.8;
+	}
+
+	#main article.list {
+		border-top:none;
+	}
+
+	.list .box ul {
+		text-align: right;
+		display:block;
+	}
+
+	#main > .details {
+		padding:0rem 8rem 6rem 8rem;
+	}
+
+	#main > .details-main {
+		padding: 8rem 8rem 2rem 8rem;
+	}
