@@ -4750,6 +4750,10 @@ input, select, textarea {
 		margin-bottom:0.9em;
 	}
 
+	#main .row.artefact-row {
+		margin-top:0;
+	}
+
 	#nav .links li .icon i {
 		margin:0.8em 0.1em 0.8em 0.1em;
 	}
@@ -4775,3 +4779,7 @@ input, select, textarea {
 	#main > .details-main {
 		padding: 8rem 8rem 2rem 8rem;
 	}
+
+.method p {
+	text-align:left;
+}
